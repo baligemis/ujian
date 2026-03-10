@@ -1,0 +1,5 @@
+{
+  "name": "Madrasah Exam Browser",
+  "description": "Aplikasi ujian online dengan fitur anti-curang seperti deteksi pindah tab, blokir klik kanan, dan mode layar penuh.",
+  "requestFramePermissions": []
+}
